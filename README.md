@@ -1,2 +1,2 @@
 # Python_mini_project_SMS
-In this project, I have used a module called requests(pip install requests). I imported json module as well. However, I also used SMSFAST website for sending the SMS through server.  
+In this Python project, I have used a package called requests(pip install requests) to allows me to send HTTP requests using Python. I imported json module as it helps in order to convert python dictionaries into strings that can be written into a file. However, I also used SMSFAST website for sending the SMS through server. I just used dictionaries data structure in order to store the data from SMSFAST websilte and took keys and its values.
